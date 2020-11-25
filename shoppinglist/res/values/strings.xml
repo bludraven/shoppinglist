@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="enter">Enter</string>
+    <string name="hint">type here to add an item</string>
+    <string-array name="listitems">
+        <item>Ramen noodles</item>
+        <item>Hot Pockets</item>
+        <item>Cheetos</item>
+    </string-array>
+</resources>
